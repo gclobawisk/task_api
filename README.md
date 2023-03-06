@@ -2,10 +2,10 @@
 
 ## Requerimentos:
 * LARAVEL 9+
-* PHP 8+
+* PHP 7.4
 * MYSQL OU MARIADB
 * COMPOSER
-* JWT-AUTH 2.0.0: documentação -> https://jwt-auth.readthedocs.io/en/develop
+* JWT-AUTH 1.0.0: documentação -> https://jwt-auth.readthedocs.io/en/develop
 
 
 # TUTORIAL DE INSTALAÇÃO DA API
